@@ -34,7 +34,7 @@ We're actively working on enhancing Cook Your Food with more features and exciti
 
 ## Live Demo
 
-Check out the live demo [here]((https://cookyourfood-recipesearch.netlify.app/)).
+Check out the live demo [(https://cookyourfood-recipesearch.netlify.app/)] .
 
 ---
 
